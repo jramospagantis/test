@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: webserver-simple
-        image: docker.io/kostiscodefresh/gitops-simple-app:v1.0xxxx
+        image: docker.io/kostiscodefresh/gitops-simple-app:v1.0xxxxxx
         ports:
         - containerPort: 8080
